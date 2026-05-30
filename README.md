@@ -10,9 +10,9 @@ The purpose of this repository is to demonstrate practical experience with secur
 
 ### Project from Course 1: Secure Access with Azure Active Directory
 
-See Details
-<details>
-  <summary>Click to expand</summary>
-</details>
+Implemented Azure Active Directory security controls by:
+ - Managing users and groups
+ - Enabling Self-Service Password Reset (SSPR)
+ - Configuring Multifactor Authentication (MFA) to enhance identity security
 
-**[Phishing Email Analyzer in Python](https://github.com/huzaifah-cyber/CS50P-Project)**
+**[Click to view lab instructions & solution](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main/Project%20One)**
