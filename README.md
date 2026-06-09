@@ -16,3 +16,14 @@ Implemented Azure Active Directory security controls by:
  - Configuring Multifactor Authentication (MFA) to enhance identity security
 
 **[Click to view lab instructions & solution](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main/Project%20One)**
+
+### Project from Course 2: Identity Protection and Governance 
+
+Implemented Azure security and governance controls by:
+- Configuring Azure Active Directory Privileged Identity Management (PIM)
+- Blocking access by location using Conditional Access
+- Creating access reviews for privileged roles
+- Assigning Azure roles to groups using RBAC
+- Enabling resource locks to protect Azure resources from accidental deletion
+
+**[Click to view lab instructions & solution](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main/Project%20Two)**
