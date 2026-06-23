@@ -27,3 +27,16 @@ Implemented Azure security and governance controls by:
 - Enabling resource locks to protect Azure resources from accidental deletion
 
 **[Click to view lab instructions & solution](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main/Project%20Two)**
+
+### Project from Course 3: Implement Platform Protection
+
+Strengthened Azure network security boundaries and access controls by:
+ - Hardening perimeter security using Network Security Groups (NSGs) to strictly control inbound traffic flow with precise rule prioritization.
+ - Securing administrative access by isolating port 3389 to allow authorized Remote Desktop Protocol (RDP) management sessions into the virtual machine.
+ - Enforcing zero-trust network isolation during the baseline installation of Internet Information Services (IIS) before exposing the server to the         internet.
+ - Validating firewall integrity by testing the public IP address to confirm that unauthorized external traffic was successfully blocked by default.
+ - Managing the public attack surface by creating a dedicated inbound rule on port 80 to securely permit web traffic to the application.
+ - Conducting end-to-end connectivity audits to verify that public web services were fully accessible only after the correct security policies were         applied.
+
+**[Click to view lab instructions & solution](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main/Project%20Three)**
+
