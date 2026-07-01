@@ -4,6 +4,8 @@ This repository documents the hands-on labs completed as part of the Microsoft A
 
 The purpose of this repository is to demonstrate practical experience with securing cloud infrastructure, identities, applications, and data within Microsoft Azure. Each lab focuses on implementing security controls, monitoring resources, and applying industry best practices in a controlled cloud environment.
 
+<img src="assets/Certificate.png" width="550">
+
 --- 
 
 ## Projects/Labs
@@ -95,4 +97,3 @@ Implemented a multi-layer Azure security architecture to protect sensitive busin
 - Validating secure access workflows by testing Blob SAS-based image access through administrator and authorized sales team accounts.
 
 **[Click to view lab instructions & solution](https://github.com/huzaifah-cyber/Azure-Security-Engineer/tree/main/Project%20Course%207%20(Capstone))**
-
